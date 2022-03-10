@@ -9,7 +9,8 @@ const app = new Vue({
     el: `#app`,
     data: {
         message: `Hello World!`,
+        srcImage: `https://picsum.photos/200/300`,
+        altImage: `Immagine`,
     },
-    srcImage: `https://picsum.photos/200/300`,
-    altimage: `Immagine`,
+    
 });
